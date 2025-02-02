@@ -1,5 +1,4 @@
 Flask
 prometheus_flask_exporter
 jaeger-client
-sqlite3
 gunicorn
